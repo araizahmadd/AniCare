@@ -18,7 +18,6 @@ This project utilizes Retrieval-Augmented Generation (RAG) to create an AI-power
 ### Environment Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/petcare-rag.git
    cd petcare-rag
    ```
 
